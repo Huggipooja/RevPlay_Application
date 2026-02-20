@@ -284,9 +284,9 @@ Log4J2 is configured to log:
 ---
 
 # 📌 Authors
-
-1. Pooja
-2. Manjunath  
+  # Team Lead
+   Pooja
+    1. Manjunath  
 
 ---
 
